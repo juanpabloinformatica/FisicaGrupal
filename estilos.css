@@ -29,3 +29,7 @@ li {
     text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+audio {
+    text-indent: 25px;
+}
