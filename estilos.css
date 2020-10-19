@@ -33,3 +33,7 @@ li {
 audio {
     text-indent: 25px;
 }
+
+.titulo {
+    text-align: center;
+}
