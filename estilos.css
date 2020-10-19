@@ -6,21 +6,26 @@ p {
 }
 
 h1 {
+    text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
+    text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 h3 {
+    text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 h4 {
+    text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 li {
+    text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
