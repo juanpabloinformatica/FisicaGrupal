@@ -57,3 +57,10 @@ ul {
     border-color: #ff9642;
     width: 300px;
 }
+
+.imagen {
+    margin: auto;
+    display: block;
+    width: 150px;
+    height: 150px;
+}
