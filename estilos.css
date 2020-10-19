@@ -3,40 +3,48 @@ p {
     text-indent: 25px;
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
+    color: #646464;
 }
 
 h1 {
     text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
+    color: #646464;
 }
 
 h2 {
     text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
+    color: #646464;
 }
 
 h3 {
     text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
+    color: #646464;
 }
 
 h4 {
     text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
+    color: #646464;
 }
 
 li {
     text-indent: 25px;
     font-family: 'Times New Roman', Times, serif;
+    color: #646464;
 }
 
 audio {
     text-indent: 25px;
+    color: #646464;
 }
 
 .titulo {
     text-align: center;
     text-size-adjust: ;
+    color: #646464;
 }
 
 .caja {
